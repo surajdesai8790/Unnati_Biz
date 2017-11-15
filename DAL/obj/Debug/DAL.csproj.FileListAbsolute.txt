@@ -1,0 +1,18 @@
+E:\Current Projects\Unnati\DAL\bin\Debug\DAL.dll
+E:\Current Projects\Unnati\DAL\bin\Debug\DAL.pdb
+E:\Current Projects\Unnati\DAL\obj\Debug\DAL.dll
+E:\Current Projects\Unnati\DAL\obj\Debug\DAL.pdb
+D:\Suraj\Projects\Test\Test\Unnati\DAL\bin\Debug\DAL.dll
+D:\Suraj\Projects\Test\Test\Unnati\DAL\bin\Debug\DAL.pdb
+D:\Suraj\Projects\Test\Test\Unnati\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Suraj\Projects\Test\Test\Unnati\DAL\obj\Debug\DAL.dll
+D:\Suraj\Projects\Test\Test\Unnati\DAL\obj\Debug\DAL.pdb
+E:\Current Projects\Test\Test\Unnati\DAL\bin\Debug\DAL.dll
+E:\Current Projects\Test\Test\Unnati\DAL\bin\Debug\DAL.pdb
+E:\Current Projects\Test\Test\Unnati\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Current Projects\Test\Test\Unnati\DAL\obj\Debug\DAL.dll
+E:\Current Projects\Test\Test\Unnati\DAL\obj\Debug\DAL.pdb
+E:\Current Projects\UnnatiEngineeringWorks\DAL\bin\Debug\DAL.dll
+E:\Current Projects\UnnatiEngineeringWorks\DAL\bin\Debug\DAL.pdb
+E:\Current Projects\UnnatiEngineeringWorks\DAL\obj\Debug\DAL.dll
+E:\Current Projects\UnnatiEngineeringWorks\DAL\obj\Debug\DAL.pdb

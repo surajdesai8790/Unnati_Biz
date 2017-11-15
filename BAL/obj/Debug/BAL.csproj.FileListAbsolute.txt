@@ -1,0 +1,28 @@
+E:\Current Projects\Unnati\BAL\bin\Debug\BAL.dll
+E:\Current Projects\Unnati\BAL\bin\Debug\BAL.pdb
+E:\Current Projects\Unnati\BAL\bin\Debug\DAL.dll
+E:\Current Projects\Unnati\BAL\bin\Debug\DAL.pdb
+E:\Current Projects\Unnati\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\Current Projects\Unnati\BAL\obj\Debug\BAL.dll
+E:\Current Projects\Unnati\BAL\obj\Debug\BAL.pdb
+D:\Suraj\Projects\Test\Test\Unnati\BAL\bin\Debug\BAL.dll
+D:\Suraj\Projects\Test\Test\Unnati\BAL\bin\Debug\BAL.pdb
+D:\Suraj\Projects\Test\Test\Unnati\BAL\bin\Debug\DAL.dll
+D:\Suraj\Projects\Test\Test\Unnati\BAL\bin\Debug\DAL.pdb
+D:\Suraj\Projects\Test\Test\Unnati\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Suraj\Projects\Test\Test\Unnati\BAL\obj\Debug\BAL.dll
+D:\Suraj\Projects\Test\Test\Unnati\BAL\obj\Debug\BAL.pdb
+E:\Current Projects\Test\Test\Unnati\BAL\bin\Debug\BAL.dll
+E:\Current Projects\Test\Test\Unnati\BAL\bin\Debug\BAL.pdb
+E:\Current Projects\Test\Test\Unnati\BAL\bin\Debug\DAL.dll
+E:\Current Projects\Test\Test\Unnati\BAL\bin\Debug\DAL.pdb
+E:\Current Projects\Test\Test\Unnati\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\Current Projects\Test\Test\Unnati\BAL\obj\Debug\BAL.dll
+E:\Current Projects\Test\Test\Unnati\BAL\obj\Debug\BAL.pdb
+E:\Current Projects\UnnatiEngineeringWorks\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\Current Projects\UnnatiEngineeringWorks\BAL\bin\Debug\BAL.dll
+E:\Current Projects\UnnatiEngineeringWorks\BAL\bin\Debug\BAL.pdb
+E:\Current Projects\UnnatiEngineeringWorks\BAL\bin\Debug\DAL.dll
+E:\Current Projects\UnnatiEngineeringWorks\BAL\bin\Debug\DAL.pdb
+E:\Current Projects\UnnatiEngineeringWorks\BAL\obj\Debug\BAL.dll
+E:\Current Projects\UnnatiEngineeringWorks\BAL\obj\Debug\BAL.pdb
